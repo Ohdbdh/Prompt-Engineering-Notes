@@ -13,6 +13,10 @@
 * **MiniMax（海螺 AI 对话）**：[https://www.minimaxi.com/](https://www.minimaxi.com/) 或 [https://hailuoai.video/](https://hailuoai.video/)
 * **通义千问（Qwen）**：[https://tongyi.aliyun.com/](https://tongyi.aliyun.com/)
 
+**笔记生成（Note Generation）**
+
+* **Obsidian**：[https://obsidian.md//)
+
 **图像生成（Image Generation）**
 
 * **Leonardo.ai**：[https://leonardo.ai/](https://leonardo.ai/)
