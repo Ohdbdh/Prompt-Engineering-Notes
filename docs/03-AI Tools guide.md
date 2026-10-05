@@ -39,3 +39,7 @@
 **音频生成（Audio Generation）**
 
 * **海螺语音合成（Hailuo / MiniMax Text to Speech）**：[https://www.minimaxi.com/audio](https://www.minimaxi.com/audio)
+
+**需求整理（Request Ticketing）**
+
+* **base44**：[(https://www.base44.com)]
