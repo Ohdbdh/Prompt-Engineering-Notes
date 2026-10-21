@@ -1,7 +1,3 @@
----
-
-
-
 ### 1. 按模板整理后的主文档（可直接作为 `docs/case-study-presentation.md` 或 README 核心）
 
 
