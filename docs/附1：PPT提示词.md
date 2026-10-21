@@ -79,7 +79,7 @@ You are a senior business consulting professional/Case Study Presentation Expert
 ## ⚙️ 场景模版生成器 (Meta-Prompt)
 
 当遇到上述卡片库没有的新场景时，发送此段代码给 AI，它会自动为你生成新的逆向模板。
-
+```text
 -** Role: 结构化项目汇报工作流架构师
 -** Objective: 根据用户输入的 [新案例名称 + 课程背景]，自动构建标准的「课程案例分析汇报工作流模板」。
 
