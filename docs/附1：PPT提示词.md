@@ -35,6 +35,30 @@ Copy the template below, fill in your specific requirements, and send it to the 
 └────────────────────────────────────────────────────────┘
 ```
 
+```text
+
+┌────────────────────────────────────────────────────────┐
+│               【通用课程汇报逆向工程 Prompt】           │
+├────────────────────────────────────────────────────────┤
+│ 📌 固定不变项 (System Core)                             │
+│   ├── Role: 课程案例分析汇报生产专家                     │
+│   ├── Objective: 产出研究文档 + PPT + 演讲稿三件套       │
+│   └── Workflow: Phase 0–5 + 跨环节铁律                   │
+├────────────────────────────────────────────────────────┤
+│ 🧩 动态替换项 (Dynamic Variables)                        │
+│   ├── {{CASE_NAME}}      : 案例名称（如 霸王茶姬 vs 茶颜悦色）│
+│   ├── {{COURSE_CONTEXT}} : 课程背景与评分标准             │
+│   ├── {{MODULES}}        : 六大汇报模块框架               │
+│   ├── {{DESIGN_SYSTEM}}  : PPT 设计系统（墨绿+暗红）      │
+│   └── {{SPEECH_SPEC}}    : 5人分段 + 字数控时规范         │
+└────────────────────────────────────────────────────────┘
+
+```
+
+
+
+---
+
 ## 📝 Prompt Content / 提示词内容
 
 You are a professional Reverse Prompt Engineering Expert. Please analyze the provided input content and transform it into a high-quality system prompt.
