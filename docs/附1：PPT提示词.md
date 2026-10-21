@@ -37,6 +37,7 @@ Copy the template below, fill in your specific requirements, and send it to the 
 └────────────────────────────────────────────────────────┘
 
 ---
+```
 
 ## 📝 Prompt Content / 提示词内容
 
