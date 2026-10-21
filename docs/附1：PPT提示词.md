@@ -1,6 +1,6 @@
 # 🤖 PPT提示词（PPT Prompt）
 
-> A structured prompt-engineering template to deconstruct content into reusable system prompts. 用于将各种内容解构为高复用性系统提示词的逆向工程模板。
+> A PPT prompt-engineering template to deconstruct content into reusable system prompts. 用于将各种内容解构为高复用性系统提示词的PPT模板。
 
 ---
 
